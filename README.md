@@ -1,25 +1,13 @@
-![my image](https://picsum.photos/200/300)
-![image local](cat.png)
+#Git commands I should know by heart
 
-| Person | Grade |
-| ------ | ----- |
-| Me     | A+    |
-| NotMe  | F     |
-| other | B|
-| ------ | ----- |
-| Me     | A+    |
-| NotMe  | F     |
-
-# awesomedev
-## h2
-### h3 
-#### h4
-
-[google](https://www.google.com)
-
-Things can be **bold** Or _italicized_
-
-**Bold** *italic* _italic_
-
-
+-git init
+git status
+git log
+git add
+git commit
+git checkout
+git clone
+git branch
+git push
+git pull
 
